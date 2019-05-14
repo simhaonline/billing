@@ -1,7 +1,5 @@
 # Language Files for iBilling
 
-We need Contributor for iBilling ( http://codecanyon.net/item/ibilling-accounting-and-billing-software/11021678 ) Translation
-
 ### Version
 2.4.0
 
@@ -29,5 +27,3 @@ $_L['Search'] = 'Search';
 $_L['Add New Contact'] = 'Add New Contact';
 $_L['Filter by Tags'] = 'Filter by Tags';
 ```
-<img src="http://www.ibilling.io/wp-content/storage/2015/03/localisation-settings.jpg">
-
