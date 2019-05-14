@@ -1,0 +1,5 @@
+SetEnv PHPRC /var/www/html/tudlobilling_abdel/php.ini
+<Files ~ "\.(ini)$">
+order allow,deny
+deny from all
+</Files>
